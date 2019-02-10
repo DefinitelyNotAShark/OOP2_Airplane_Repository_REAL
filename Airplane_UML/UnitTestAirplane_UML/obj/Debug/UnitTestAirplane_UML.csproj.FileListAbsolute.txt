@@ -1,0 +1,17 @@
+C:\Users\sophi\source\repos\Airplane_UML\UnitTestAirplane_UML\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sophi\source\repos\Airplane_UML\UnitTestAirplane_UML\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sophi\source\repos\Airplane_UML\UnitTestAirplane_UML\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sophi\source\repos\Airplane_UML\UnitTestAirplane_UML\bin\Debug\UnitTestAirplane_UML.dll
+C:\Users\sophi\source\repos\Airplane_UML\UnitTestAirplane_UML\bin\Debug\UnitTestAirplane_UML.pdb
+C:\Users\sophi\source\repos\Airplane_UML\UnitTestAirplane_UML\bin\Debug\Airplane_UML.exe
+C:\Users\sophi\source\repos\Airplane_UML\UnitTestAirplane_UML\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sophi\source\repos\Airplane_UML\UnitTestAirplane_UML\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sophi\source\repos\Airplane_UML\UnitTestAirplane_UML\bin\Debug\Airplane_UML.pdb
+C:\Users\sophi\source\repos\Airplane_UML\UnitTestAirplane_UML\bin\Debug\Airplane_UML.exe.config
+C:\Users\sophi\source\repos\Airplane_UML\UnitTestAirplane_UML\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sophi\source\repos\Airplane_UML\UnitTestAirplane_UML\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sophi\source\repos\Airplane_UML\UnitTestAirplane_UML\obj\Debug\UnitTestAirplane_UML.csprojAssemblyReference.cache
+C:\Users\sophi\source\repos\Airplane_UML\UnitTestAirplane_UML\obj\Debug\UnitTestAirplane_UML.csproj.CoreCompileInputs.cache
+C:\Users\sophi\source\repos\Airplane_UML\UnitTestAirplane_UML\obj\Debug\UnitTestAirplane_UML.csproj.CopyComplete
+C:\Users\sophi\source\repos\Airplane_UML\UnitTestAirplane_UML\obj\Debug\UnitTestAirplane_UML.dll
+C:\Users\sophi\source\repos\Airplane_UML\UnitTestAirplane_UML\obj\Debug\UnitTestAirplane_UML.pdb

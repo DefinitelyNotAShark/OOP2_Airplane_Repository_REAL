@@ -1,0 +1,7 @@
+C:\Users\sophi\source\repos\Airplane_UML\Airplane_UML\bin\Debug\Airplane_UML.exe.config
+C:\Users\sophi\source\repos\Airplane_UML\Airplane_UML\bin\Debug\Airplane_UML.exe
+C:\Users\sophi\source\repos\Airplane_UML\Airplane_UML\bin\Debug\Airplane_UML.pdb
+C:\Users\sophi\source\repos\Airplane_UML\Airplane_UML\obj\Debug\Airplane_UML.csprojAssemblyReference.cache
+C:\Users\sophi\source\repos\Airplane_UML\Airplane_UML\obj\Debug\Airplane_UML.csproj.CoreCompileInputs.cache
+C:\Users\sophi\source\repos\Airplane_UML\Airplane_UML\obj\Debug\Airplane_UML.exe
+C:\Users\sophi\source\repos\Airplane_UML\Airplane_UML\obj\Debug\Airplane_UML.pdb
